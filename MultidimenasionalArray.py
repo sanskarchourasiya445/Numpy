@@ -20,6 +20,7 @@ ar3 = np.array([[[1,2],[3,4]], [[5,6],[7,8]]])
 print(arr3)
 print(arr3.ndim)
 
-arrN = np.array([1,2,3,4], ndmin = 10)
+arrN = np.array([1,2,3,4], ndimn = 10)
 print(arrN)
 print(arrN.ndim)
+
